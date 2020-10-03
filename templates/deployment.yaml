@@ -36,4 +36,7 @@ spec:
           value: "kubelet-rubber-stamp"
         resources:
           requests:
+            cpu: 5m
             memory: 10Mi
+          limits:
+            memory: 50Mi
