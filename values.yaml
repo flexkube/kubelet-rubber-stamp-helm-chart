@@ -1,1 +1,1 @@
-image: quay.io/flexkube/kubelet-rubber-stamp-amd64:0.3.0-k8s-1.22
+image: quay.io/flexkube/kubelet-rubber-stamp-amd64:0.3.0-k8s-1.27
